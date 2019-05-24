@@ -1,5 +1,5 @@
 # django_coreySchafer
-Made by following the YouTube intervals of Corey Schafer
+Made by following the YouTube tutorials of Corey Schafer
 
 Clone the repo
 Navigate to the folder using the command line
